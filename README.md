@@ -1,2 +1,2 @@
 # SeriesRenovades
-Projecte fet a M10 on analitzarem dades sobre sèries renovades i cancel·lades.
+Projecte fet a DAM1 M10 on analitzarem dades sobre sèries renovades i cancel·lades.
